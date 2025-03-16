@@ -47,7 +47,7 @@
 <details>
   <summary>Практические задачи</summary>
 
-- [x] [A. Значения функции](yandex_practicum/sprint_1/tasks/A)
+- [ ] [A. Значения функции](yandex_practicum/sprint_1/tasks/A)
 - [x] [B. Чётные и нечётные числа](yandex_practicum/sprint_1/tasks/B)
 - [ ] [C. Соседи](yandex_practicum/sprint_1/tasks/C)
 - [ ] [D. Хаотичность погоды](yandex_practicum/sprint_1/tasks/D)
